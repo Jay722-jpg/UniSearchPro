@@ -2,6 +2,14 @@
 
 SwiftUI iOS app.
 
+## About
+UniSearchPro is a SwiftUI app that helps students quickly search and view universities, with details like location, description, and website links.
+
+### Features
+- 🔍 Search universities by name
+- 📍 View details (location, description, URL)
+- 📱 Built fully with SwiftUI
+
 ## Requirements
 - Xcode 15+ (Swift 5.9+)
 - iOS 17+ (adjust if needed)
